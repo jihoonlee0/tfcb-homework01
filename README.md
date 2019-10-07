@@ -19,7 +19,7 @@ The following images are embedded from this example project.
 
 ![Cataglyphis fortis](images/casent-0906296-p-1-high_Cataglyphis-fortis.jpg)
 
-![Acanthomyrmex ferox](casent-0901788-p-1-high_Acanthomyrmex-ferox.jpg)
+![Acanthomyrmex ferox](images/casent-0901788-p-1-high_Acanthomyrmex-ferox.jpg)
 
 The following is an example table:
 
